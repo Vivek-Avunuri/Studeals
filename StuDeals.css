@@ -1,5 +1,6 @@
 html{
     scroll-padding-top: 120px;
+    scroll-behavior: smooth;
 }
 .navbar {
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2); 
