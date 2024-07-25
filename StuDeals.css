@@ -87,6 +87,12 @@ html{
     align-items: center;
     margin-top: 100px;
 }
+@media(max-width:460px){
+    .home-heading{
+        font-size: 30px;
+    }
+}
+
 .search-box{
     display: flex;
     flex-direction: row;
