@@ -8,11 +8,13 @@ html{
 }
 .logo{
      width: 40%;
+     max-width: 400px;
 }
-@media (max-width: 767.98px){
+@media(max-width:459.98px){
     .logo{
         width: 35%;
-    }    
+        max-width: 200px;
+    }
 }
 .nav-width{
     width: 120px;
