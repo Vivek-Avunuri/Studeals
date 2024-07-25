@@ -9,6 +9,11 @@ html{
 .logo{
      width: 40%;
 }
+@media (max-width: 767.98px){
+    .logo{
+        width: 35%;
+    }    
+}
 .nav-width{
     width: 120px;
 }
